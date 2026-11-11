@@ -1,0 +1,1 @@
+# metodo-del-gradiente_Area-financiera
